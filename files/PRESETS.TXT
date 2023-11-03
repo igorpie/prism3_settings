@@ -12,34 +12,34 @@
 #PotCtrl1	0
 #Pot2		1023
 #PotAlt2	952
-#PotCtrl2	0
+#PotCtrl2	1023
 #Pot4		600
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		81
 #PotAlt5	529
-#PotCtrl5	1023
+#PotCtrl5	598
 #SwBeat		0
 #SwBeatAlt	0
 
 #Slot		1
-#Algorithm	1	
-#TapMode	0	
-#TapTempo	7593	
+#Algorithm	1
+#TapMode	0
+#TapTempo	7593
 #Pot1		261
-#PotAlt1	737	
-#PotCtrl1	0	
+#PotAlt1	737
+#PotCtrl1	0
 #Pot2		532
-#PotAlt2	1023	
-#PotCtrl2	0	
+#PotAlt2	1023
+#PotCtrl2	1023
 #Pot4		623
-#PotAlt4	0	
-#PotCtrl4	0	
+#PotAlt4	0
+#PotCtrl4	0
 #Pot5		81
-#PotAlt5	529	
-#PotCtrl5	1023	
+#PotAlt5	529
+#PotCtrl5	333
 #SwBeat		0
-#SwBeatAlt	2	
+#SwBeatAlt	2
 
 #Slot		2
 #Algorithm	2
@@ -50,13 +50,13 @@
 #PotCtrl1	0
 #Pot2		386
 #PotAlt2	912
-#PotCtrl2	0
+#PotCtrl2	1023
 #Pot4		521
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		394
 #PotAlt5	529
-#PotCtrl5	1023
+#PotCtrl5	683
 #SwBeat		0
 #SwBeatAlt	2
 
@@ -75,7 +75,7 @@
 #PotCtrl4	0
 #Pot5		492
 #PotAlt5	506
-#PotCtrl5	361
+#PotCtrl5	621
 #SwBeat		0
 #SwBeatAlt	2
 
@@ -88,13 +88,13 @@
 #PotCtrl1	195
 #Pot2		627
 #PotAlt2	921
-#PotCtrl2	841
+#PotCtrl2	710
 #Pot4		609
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		867
 #PotAlt5	529
-#PotCtrl5	798
+#PotCtrl5	356
 #SwBeat		0
 #SwBeatAlt	2
 
@@ -107,13 +107,13 @@
 #PotCtrl1	0
 #Pot2		761
 #PotAlt2	333
-#PotCtrl2	1023
-#Pot4		706
-#PotAlt4	0
+#PotCtrl2	572
+#Pot4		683
+#PotAlt4	173
 #PotCtrl4	0
 #Pot5		1011
 #PotAlt5	529
-#PotCtrl5	1023
+#PotCtrl5	653
 #SwBeat		0
 #SwBeatAlt	2
 
@@ -126,13 +126,13 @@
 #PotCtrl1	0
 #Pot2		1023
 #PotAlt2	836
-#PotCtrl2	1023
+#PotCtrl2	892
 #Pot4		609
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		335
 #PotAlt5	457
-#PotCtrl5	691
+#PotCtrl5	359
 #SwBeat		0
 #SwBeatAlt	2
 
@@ -145,51 +145,51 @@
 #PotCtrl1	0
 #Pot2		526
 #PotAlt2	957
-#PotCtrl2	1023
+#PotCtrl2	697
 #Pot4		589
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		173
 #PotAlt5	518
-#PotCtrl5	1022
+#PotCtrl5	272
 #SwBeat		0
 #SwBeatAlt	2
 
 #Slot		8
 #Algorithm	8
 #TapMode	0
-#TapTempo	28031
+#TapTempo	28125
 #Pot1		154
 #PotAlt1	658
 #PotCtrl1	0
 #Pot2		301
 #PotAlt2	198
-#PotCtrl2	1023
+#PotCtrl2	975
 #Pot4		941
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		300
 #PotAlt5	529
-#PotCtrl5	1023
+#PotCtrl5	280
 #SwBeat		0
 #SwBeatAlt	2
 
 #Slot		9
 #Algorithm	9
 #TapMode	0
-#TapTempo	20062
+#TapTempo	20156
 #Pot1		183
 #PotAlt1	1023
 #PotCtrl1	0
 #Pot2		255
 #PotAlt2	925
-#PotCtrl2	1023
+#PotCtrl2	823
 #Pot4		615
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		215
 #PotAlt5	529
-#PotCtrl5	0
+#PotCtrl5	727
 #SwBeat		0
 #SwBeatAlt	2
 
@@ -202,13 +202,13 @@
 #PotCtrl1	0
 #Pot2		532
 #PotAlt2	952
-#PotCtrl2	0
+#PotCtrl2	1019
 #Pot4		728
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		81
 #PotAlt5	529
-#PotCtrl5	1023
+#PotCtrl5	124
 #SwBeat		0
 #SwBeatAlt	0
 
@@ -219,15 +219,15 @@
 #Pot1		263
 #PotAlt1	700
 #PotCtrl1	0
-#Pot2		740
+#Pot2		874
 #PotAlt2	194
-#PotCtrl2	0
+#PotCtrl2	607
 #Pot4		887
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		577
 #PotAlt5	503
-#PotCtrl5	832
+#PotCtrl5	269
 #SwBeat		0
 #SwBeatAlt	0
 
@@ -240,13 +240,13 @@
 #PotCtrl1	0
 #Pot2		1020
 #PotAlt2	611
-#PotCtrl2	0
+#PotCtrl2	651
 #Pot4		870
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		613
 #PotAlt5	483
-#PotCtrl5	0
+#PotCtrl5	814
 #SwBeat		0
 #SwBeatAlt	0
 
@@ -259,13 +259,13 @@
 #PotCtrl1	0
 #Pot2		730
 #PotAlt2	451
-#PotCtrl2	0
+#PotCtrl2	662
 #Pot4		1023
-#PotAlt4	0
+#PotAlt4	188
 #PotCtrl4	1023
 #Pot5		516
 #PotAlt5	1023
-#PotCtrl5	0
+#PotCtrl5	378
 #SwBeat		0
 #SwBeatAlt	0
 
@@ -278,13 +278,13 @@
 #PotCtrl1	125
 #Pot2		506
 #PotAlt2	652
-#PotCtrl2	0
-#Pot4		505
+#PotCtrl2	636
+#Pot4		420
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		624
 #PotAlt5	498
-#PotCtrl5	0
+#PotCtrl5	726
 #SwBeat		0
 #SwBeatAlt	0
 
@@ -296,14 +296,14 @@
 #PotAlt1	1023
 #PotCtrl1	0
 #Pot2		804
-#PotAlt2	338
-#PotCtrl2	0
+#PotAlt2	708
+#PotCtrl2	711
 #Pot4		784
 #PotAlt4	122
 #PotCtrl4	0
 #Pot5		658
 #PotAlt5	448
-#PotCtrl5	0
+#PotCtrl5	428
 #SwBeat		0
 #SwBeatAlt	0
 
@@ -316,13 +316,13 @@
 #PotCtrl1	200
 #Pot2		1020
 #PotAlt2	617
-#PotCtrl2	0
-#Pot4		869
+#PotCtrl2	731
+#Pot4		900
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		429
 #PotAlt5	477
-#PotCtrl5	600
+#PotCtrl5	413
 #SwBeat		0
 #SwBeatAlt	0
 
@@ -335,13 +335,13 @@
 #PotCtrl1	0
 #Pot2		437
 #PotAlt2	0
-#PotCtrl2	0
+#PotCtrl2	868
 #Pot4		1022
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		245
 #PotAlt5	394
-#PotCtrl5	0
+#PotCtrl5	634
 #SwBeat		0
 #SwBeatAlt	0
 
@@ -354,13 +354,13 @@
 #PotCtrl1	0
 #Pot2		563
 #PotAlt2	66
-#PotCtrl2	0
+#PotCtrl2	1006
 #Pot4		754
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		159
 #PotAlt5	469
-#PotCtrl5	817
+#PotCtrl5	304
 #SwBeat		0
 #SwBeatAlt	0
 
@@ -373,13 +373,13 @@
 #PotCtrl1	0
 #Pot2		387
 #PotAlt2	774
-#PotCtrl2	0
+#PotCtrl2	715
 #Pot4		1023
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		142
 #PotAlt5	469
-#PotCtrl5	0
+#PotCtrl5	706
 #SwBeat		0
 #SwBeatAlt	0
 
@@ -392,13 +392,13 @@
 #PotCtrl1	0
 #Pot2		609
 #PotAlt2	1021
-#PotCtrl2	0
-#Pot4		873
+#PotCtrl2	430
+#Pot4		844
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		80
 #PotAlt5	469
-#PotCtrl5	0
+#PotCtrl5	339
 #SwBeat		0
 #SwBeatAlt	0
 
@@ -411,13 +411,13 @@
 #PotCtrl1	0
 #Pot2		673
 #PotAlt2	0
-#PotCtrl2	0
+#PotCtrl2	337
 #Pot4		489
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		484
 #PotAlt5	469
-#PotCtrl5	0
+#PotCtrl5	390
 #SwBeat		0
 #SwBeatAlt	0
 
@@ -430,32 +430,32 @@
 #PotCtrl1	0
 #Pot2		905
 #PotAlt2	943
-#PotCtrl2	0
+#PotCtrl2	959
 #Pot4		741
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		288
 #PotAlt5	529
-#PotCtrl5	624
+#PotCtrl5	584
 #SwBeat		0
 #SwBeatAlt	2
 
 #Slot		23
 #Algorithm	12
 #TapMode	0
-#TapTempo	29625
+#TapTempo	29531
 #Pot1		43
 #PotAlt1	0
 #PotCtrl1	182
-#Pot2		853
+#Pot2		914
 #PotAlt2	936
-#PotCtrl2	0
-#Pot4		879
-#PotAlt4	0
+#PotCtrl2	1000
+#Pot4		750
+#PotAlt4	149
 #PotCtrl4	0
 #Pot5		315
 #PotAlt5	483
-#PotCtrl5	537
+#PotCtrl5	389
 #SwBeat		0
 #SwBeatAlt	0
 
@@ -468,13 +468,13 @@
 #PotCtrl1	484
 #Pot2		673
 #PotAlt2	1023
-#PotCtrl2	1023
+#PotCtrl2	1004
 #Pot4		819
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		469
 #PotAlt5	506
-#PotCtrl5	1019
+#PotCtrl5	190
 #SwBeat		0
 #SwBeatAlt	2
 
@@ -486,14 +486,14 @@
 #PotAlt1	1023
 #PotCtrl1	772
 #Pot2		998
-#PotAlt2	847
-#PotCtrl2	1023
+#PotAlt2	809
+#PotCtrl2	615
 #Pot4		822
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		537
 #PotAlt5	505
-#PotCtrl5	518
+#PotCtrl5	412
 #SwBeat		0
 #SwBeatAlt	2
 
@@ -506,13 +506,13 @@
 #PotCtrl1	342
 #Pot2		929
 #PotAlt2	1023
-#PotCtrl2	0
+#PotCtrl2	632
 #Pot4		810
 #PotAlt4	269
 #PotCtrl4	0
 #Pot5		152
 #PotAlt5	403
-#PotCtrl5	0
+#PotCtrl5	612
 #SwBeat		0
 #SwBeatAlt	0
 
@@ -525,13 +525,13 @@
 #PotCtrl1	298
 #Pot2		980
 #PotAlt2	971
-#PotCtrl2	0
+#PotCtrl2	964
 #Pot4		796
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		730
 #PotAlt5	1023
-#PotCtrl5	541
+#PotCtrl5	452
 #SwBeat		0
 #SwBeatAlt	0
 
@@ -544,13 +544,13 @@
 #PotCtrl1	768
 #Pot2		935
 #PotAlt2	1021
-#PotCtrl2	0
+#PotCtrl2	915
 #Pot4		815
-#PotAlt4	156
+#PotAlt4	182
 #PotCtrl4	0
 #Pot5		215
 #PotAlt5	486
-#PotCtrl5	255
+#PotCtrl5	850
 #SwBeat		0
 #SwBeatAlt	1
 
@@ -563,13 +563,13 @@
 #PotCtrl1	206
 #Pot2		603
 #PotAlt2	796
-#PotCtrl2	0
+#PotCtrl2	682
 #Pot4		612
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		842
 #PotAlt5	513
-#PotCtrl5	0
+#PotCtrl5	845
 #SwBeat		0
 #SwBeatAlt	0
 
@@ -582,13 +582,13 @@
 #PotCtrl1	520
 #Pot2		698
 #PotAlt2	721
-#PotCtrl2	0
+#PotCtrl2	683
 #Pot4		753
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		1023
 #PotAlt5	873
-#PotCtrl5	616
+#PotCtrl5	406
 #SwBeat		1
 #SwBeatAlt	0
 
@@ -601,7 +601,7 @@
 #PotCtrl1	298
 #Pot2		313
 #PotAlt2	935
-#PotCtrl2	0
+#PotCtrl2	1023
 #Pot4		773
 #PotAlt4	216
 #PotCtrl4	0
@@ -620,12 +620,12 @@
 #PotCtrl1	0
 #Pot2		553
 #PotAlt2	1019
-#PotCtrl2	0
-#Pot4		909
+#PotCtrl2	886
+#Pot4		1022
 #PotAlt4	10
 #PotCtrl4	0
 #Pot5		77
 #PotAlt5	503
-#PotCtrl5	597
+#PotCtrl5	667
 #SwBeat		0
 #SwBeatAlt	0
