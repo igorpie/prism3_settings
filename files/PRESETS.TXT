@@ -17,7 +17,7 @@
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		81
-#PotAlt5	529
+#PotAlt5	512
 #PotCtrl5	598
 #SwBeat		0
 #SwBeatAlt	0
@@ -36,7 +36,7 @@
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		81
-#PotAlt5	529
+#PotAlt5	512
 #PotCtrl5	333
 #SwBeat		0
 #SwBeatAlt	2
@@ -55,7 +55,7 @@
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		394
-#PotAlt5	529
+#PotAlt5	512
 #PotCtrl5	683
 #SwBeat		0
 #SwBeatAlt	2
@@ -74,7 +74,7 @@
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		492
-#PotAlt5	506
+#PotAlt5	512
 #PotCtrl5	621
 #SwBeat		0
 #SwBeatAlt	2
@@ -93,7 +93,7 @@
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		867
-#PotAlt5	529
+#PotAlt5	512
 #PotCtrl5	356
 #SwBeat		0
 #SwBeatAlt	2
@@ -112,7 +112,7 @@
 #PotAlt4	173
 #PotCtrl4	0
 #Pot5		1011
-#PotAlt5	529
+#PotAlt5	512
 #PotCtrl5	653
 #SwBeat		0
 #SwBeatAlt	2
@@ -131,7 +131,7 @@
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		335
-#PotAlt5	457
+#PotAlt5	512
 #PotCtrl5	359
 #SwBeat		0
 #SwBeatAlt	2
@@ -150,7 +150,7 @@
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		173
-#PotAlt5	518
+#PotAlt5	512
 #PotCtrl5	272
 #SwBeat		0
 #SwBeatAlt	2
@@ -169,7 +169,7 @@
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		300
-#PotAlt5	529
+#PotAlt5	512
 #PotCtrl5	280
 #SwBeat		0
 #SwBeatAlt	2
@@ -188,7 +188,7 @@
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		215
-#PotAlt5	529
+#PotAlt5	512
 #PotCtrl5	727
 #SwBeat		0
 #SwBeatAlt	2
@@ -207,7 +207,7 @@
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		81
-#PotAlt5	529
+#PotAlt5	512
 #PotCtrl5	124
 #SwBeat		0
 #SwBeatAlt	0
@@ -226,7 +226,7 @@
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		577
-#PotAlt5	503
+#PotAlt5	512
 #PotCtrl5	269
 #SwBeat		0
 #SwBeatAlt	0
@@ -245,7 +245,7 @@
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		613
-#PotAlt5	483
+#PotAlt5	512
 #PotCtrl5	814
 #SwBeat		0
 #SwBeatAlt	0
@@ -264,7 +264,7 @@
 #PotAlt4	188
 #PotCtrl4	1023
 #Pot5		516
-#PotAlt5	1023
+#PotAlt5	512
 #PotCtrl5	378
 #SwBeat		0
 #SwBeatAlt	0
@@ -283,7 +283,7 @@
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		624
-#PotAlt5	498
+#PotAlt5	512
 #PotCtrl5	726
 #SwBeat		0
 #SwBeatAlt	0
@@ -302,7 +302,7 @@
 #PotAlt4	122
 #PotCtrl4	0
 #Pot5		658
-#PotAlt5	448
+#PotAlt5	512
 #PotCtrl5	428
 #SwBeat		0
 #SwBeatAlt	0
@@ -321,7 +321,7 @@
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		429
-#PotAlt5	477
+#PotAlt5	512
 #PotCtrl5	413
 #SwBeat		0
 #SwBeatAlt	0
@@ -340,7 +340,7 @@
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		245
-#PotAlt5	394
+#PotAlt5	512
 #PotCtrl5	634
 #SwBeat		0
 #SwBeatAlt	0
@@ -359,7 +359,7 @@
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		159
-#PotAlt5	469
+#PotAlt5	512
 #PotCtrl5	304
 #SwBeat		0
 #SwBeatAlt	0
@@ -378,7 +378,7 @@
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		142
-#PotAlt5	469
+#PotAlt5	512
 #PotCtrl5	706
 #SwBeat		0
 #SwBeatAlt	0
@@ -397,7 +397,7 @@
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		80
-#PotAlt5	469
+#PotAlt5	512
 #PotCtrl5	339
 #SwBeat		0
 #SwBeatAlt	0
@@ -416,7 +416,7 @@
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		484
-#PotAlt5	469
+#PotAlt5	512
 #PotCtrl5	390
 #SwBeat		0
 #SwBeatAlt	0
@@ -435,7 +435,7 @@
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		288
-#PotAlt5	529
+#PotAlt5	512
 #PotCtrl5	584
 #SwBeat		0
 #SwBeatAlt	2
@@ -454,7 +454,7 @@
 #PotAlt4	149
 #PotCtrl4	0
 #Pot5		315
-#PotAlt5	483
+#PotAlt5	512
 #PotCtrl5	389
 #SwBeat		0
 #SwBeatAlt	0
@@ -473,7 +473,7 @@
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		469
-#PotAlt5	506
+#PotAlt5	512
 #PotCtrl5	190
 #SwBeat		0
 #SwBeatAlt	2
@@ -492,7 +492,7 @@
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		537
-#PotAlt5	505
+#PotAlt5	512
 #PotCtrl5	412
 #SwBeat		0
 #SwBeatAlt	2
@@ -511,7 +511,7 @@
 #PotAlt4	269
 #PotCtrl4	0
 #Pot5		152
-#PotAlt5	403
+#PotAlt5	512
 #PotCtrl5	612
 #SwBeat		0
 #SwBeatAlt	0
@@ -530,7 +530,7 @@
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		730
-#PotAlt5	1023
+#PotAlt5	512
 #PotCtrl5	452
 #SwBeat		0
 #SwBeatAlt	0
@@ -549,7 +549,7 @@
 #PotAlt4	182
 #PotCtrl4	0
 #Pot5		215
-#PotAlt5	486
+#PotAlt5	512
 #PotCtrl5	850
 #SwBeat		0
 #SwBeatAlt	1
@@ -568,7 +568,7 @@
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		842
-#PotAlt5	513
+#PotAlt5	512
 #PotCtrl5	845
 #SwBeat		0
 #SwBeatAlt	0
@@ -587,7 +587,7 @@
 #PotAlt4	0
 #PotCtrl4	0
 #Pot5		1023
-#PotAlt5	873
+#PotAlt5	512
 #PotCtrl5	406
 #SwBeat		1
 #SwBeatAlt	0
@@ -606,7 +606,7 @@
 #PotAlt4	216
 #PotCtrl4	0
 #Pot5		17
-#PotAlt5	506
+#PotAlt5	512
 #PotCtrl5	252
 #SwBeat		0
 #SwBeatAlt	0
@@ -625,7 +625,7 @@
 #PotAlt4	10
 #PotCtrl4	0
 #Pot5		77
-#PotAlt5	503
+#PotAlt5	512
 #PotCtrl5	667
 #SwBeat		0
 #SwBeatAlt	0
